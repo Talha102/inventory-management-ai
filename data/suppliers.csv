@@ -1,0 +1,6 @@
+supplier_id,supplier_name,contact_person,phone,email,city,lead_time_days,reliability_score
+S001,Ali Farms Lahore,Ali Hassan,0300-1234567,ali@farms.pk,Lahore,1,4.8
+S002,Khan Fresh Store,Khan Sahab,0321-7654321,khan@fresh.pk,Karachi,2,4.5
+S003,Brew Masters Co,Bilal Ahmed,0333-1122334,bilal@brew.pk,Islamabad,3,4.2
+S004,City Bakery Supply,Fatima Khan,0345-9988776,fatima@bakery.pk,Lahore,1,4.9
+S005,Fresh Valley Pk,Usman Ali,0311-5544332,usman@valley.pk,Faisalabad,2,4.3

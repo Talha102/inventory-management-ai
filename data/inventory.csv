@@ -1,0 +1,16 @@
+item_id,item_name,category,current_stock,min_stock,max_stock,unit,unit_price,cost_price,supplier_id,last_restocked,expiry_days
+I001,Mango,Juice,5,10,50,kg,500,350,S001,2026-06-01,3
+I002,Orange,Juice,45,20,80,kg,200,140,S001,2026-06-05,5
+I003,Lemon,Juice,8,10,40,kg,150,100,S001,2026-06-03,7
+I004,Watermelon,Juice,30,15,60,kg,100,70,S005,2026-06-04,4
+I005,Coffee Beans,Coffee,3,5,20,kg,2500,1800,S003,2026-06-02,180
+I006,Milk,Coffee,20,15,50,liter,180,130,S002,2026-06-06,2
+I007,Sugar,Coffee,15,10,40,kg,120,90,S002,2026-06-05,365
+I008,Green Tea,Tea,10,8,30,kg,800,600,S003,2026-06-03,365
+I009,Croissant,Bakery,50,30,100,pcs,150,100,S004,2026-06-07,2
+I010,Sandwich Bread,Bakery,40,20,80,pcs,80,55,S004,2026-06-06,3
+I011,Cups,Supplies,200,100,500,pcs,5,3,S002,2026-06-01,730
+I012,Straws,Supplies,500,200,1000,pcs,2,1,S002,2026-06-01,730
+I013,Napkins,Supplies,300,150,600,pcs,3,2,S004,2026-06-02,730
+I014,Ice,Supplies,25,20,80,kg,50,35,S005,2026-06-05,1
+I015,Mint,Tea,12,8,30,kg,300,200,S001,2026-06-04,7
